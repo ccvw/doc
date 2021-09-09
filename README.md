@@ -1,3 +1,3 @@
 # 文档库
 
-[链接](https://ichh.github.io/doc)
+[链接](https://ccvw.github.io/doc)
