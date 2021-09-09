@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Michael <asdhch@163.com>",
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
